@@ -22,6 +22,7 @@ html, body {
 	padding: 0;
 	height: 100%;
 }
+
 .header {
 	width: 20%;
 	height: 100%;
@@ -31,13 +32,14 @@ html, body {
 	padding: 3em;
 	padding-top: 1.5em;
 	position: fixed;
-
 	background-color: white;
 }
+
 .header img {
-max-width: 100%;
-height: auto;
+  max-width: 100%;
+  height: auto;
 }
+
 .header .link {
 	margin-top: 2.5em;
 	text-align: center;
@@ -55,6 +57,7 @@ height: auto;
 	position: fixed;
 	bottom: 2em;
 }
+
 .link-ipv6 a {
 	font-size: x-large;
 	font-weight: bold;
@@ -81,7 +84,7 @@ height: auto;
 }
 
 table {
-	width: 60%;
+	width: 85%;
 	margin: 0 auto;
 	border: solid;
 	border-width: 1px;
@@ -104,9 +107,14 @@ td, th{
 }
 
 th {
-	background-color: #0087fe;
+	background-color: #006bcb;
 	color: white;
 }
+
+tr {
+  background-color: #fbfbfb;
+}
+
 tr:last-child td {
 	border-bottom: none;
 }
@@ -117,7 +125,7 @@ li {
 
 .green, .red {
 	box-sizing: border-box;
-	padding: 5px 6px 4px;
+	padding: 0.3em 0.5em 0.3em;
 	font-size: 0.8em;
 	border-radius: 10px;
 	color: white;
@@ -126,7 +134,7 @@ li {
 
 .red {
 	color: white;
-	background-color: red;
+	background-color: #cc0000;
 }
 
 #thank-everyone {
@@ -152,6 +160,11 @@ li {
 	font-size: 1.1em;
 	color: #7d7d7d;
 }
+
+.underline {
+  border-bottom: 2px solid;
+}
+
 @media screen and (max-width: 1200px) {
 	.header {
 		width: 100%;

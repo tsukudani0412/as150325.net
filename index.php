@@ -38,41 +38,86 @@
           </thead>
           <tbody>
             <tr>
-              <td>2a12:f8c1:10::/44</td><td><span class="green">ANNOUNCED</span></td>
+              <td>2406:7ec0:1000::/46</td><td><span class="green">ANNOUNCED</span></td>
             </tr>
             <tr>
-              <td>2a06:a005:16c0::/44</td><td><span class="green">ANNOUNCED</span></td>
+              <td>2406:7ec0:1000::/48</td><td><span class="green">ANNOUNCED</span></td>
             </tr>
             <tr>
-              <td>2a06:a005:3::/48</td><td><span class="green">ANNOUNCED</span></td>
+              <td>2406:7ec0:1001::/48</td><td><span class="green">ANNOUNCED</span></td>
+            </tr>
+            <tr>
+              <td>2406:7ec0:1002::/48</td><td><span class="green">ANNOUNCED</span></td>
+            </tr>
+            <tr>
+              <td>2406:7ec0:1003::/48</td><td><span class="green">ANNOUNCED</span></td>
+            </tr>
+            <tr>
+              <td>2a12:f8c1:10::/44</td><td><span class="red">OBSOLETE</span></td>
+            </tr>
+            <tr>
+              <td>2a06:a005:16c0::/44</td><td><span class="red">OBSOLETE</span></td>
+            </tr>
+            <tr>
+              <td>2a06:a005:3::/48</td><td><span class="red">OBSOLETE</span></td>
             </tr>
           </tbody>
         </table>
 
         <h3>POPs</h3>
-        <table>
-          <thead>
-            <tr>
-              <th>Location</th><th>Details</th>
-            </tr>
-          </thead>
-          <tbody>
-            <tr>
-              <td>Tokyo, Japan</td><td>HomeLab (NTT Flet's)</td>
-            </tr>
-            <tr>
-              <td>Tokyo, Japan</td><td>Vultr</td>
-            </tr>
-            <tr>
-              <td>Zürich, Switzerland</td><td>iFog</td>
-          </tbody>
-        </table>
+        <p>
+          <table>
+            <thead>
+              <tr>
+                <th>Location</th><th>Details</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>Saitama, Japan</td><td>HomeLab</td>
+              </tr>
+              <tr>
+                <td>Tokyo, Japan</td><td>Equinix TY8</td>
+              </tr>
+              <tr>
+                <td>Tokyo, Japan</td><td>Vultr</td>
+              </tr>
+              <tr>
+                <td>Zürich, Switzerland</td><td>iFog</td>
+              </tr>
+            </tbody>
+          </table>
+        </p>
+
+        <p>
+          <table>
+            <thead>
+              <tr>
+                <th>Internet Exchange</th><th>Speed</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td>INIXP Asia</td><td>1Gbps</td>
+              </tr>
+              <tr>
+                <td>FogIXP</td><td>1Gbps</td>
+              </tr>
+              <tr>
+                <td>BGP.Exchange Zurich</td><td>1Gbps</td>
+              </tr>
+              <tr>
+                <td>4b42 Internet Exchange Point</td><td>100Mbps</td>
+              </tr>
+            </tbody>
+          </table>
+        </p>
       </div>
 
       <div class="peering" id="peering">
         <h2>Peering</h2>
         <h3>Policy</h3>
-        <p>Tsukudani Network has open peering policy. Peering via GRE, SIT, WireGuard and FogIXP is available, and peering via intra-network loopback is available when connected to NTT East's NGN.</p>
+        <p>Tsukudani Network has open peering policy. Peering via GRE, SIT, WireGuard and IXP is available, and peering via intra-network loopback is available when connected to NTT East's NGN.</p>
         <h3>Our network information</h3>
         <ul>
           <li>ASN: 150325</li>
@@ -104,14 +149,14 @@
       <div class="thanks">
         <h2>Thanks</h2>
         <p><a href="https://www.1nextnet.com/" target="_blank" rel="noopener noreferrer">1NEXTNET</a>: LIR who helped me purchase ASN!</p>
-        <p><a href="https://route48.org" target="_blank" rel="noopener noreferrer">Route48.org</a>: BGP sessions and IP blocks!</p>
-        <p><a href="https://tunnelbroker.li/" target="_blank" rel="noopener noreferrer">Tunnelbroker.li</a>: BGP sessions!</p>
+        <p><span class="underline">Shimane Datacenter Club</span>: BGP sessions and IP blocks!</p>
+        <p><span class="underline">Rapid-Fire-y</span>: BGP sessions and TY8 colocation!</p>
         <p id="thank-everyone">Everyone in the Internet community!</p>
       </div>
 
       <div class="credit">
         <span><a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener noreferrer"><img alt="CC BY-SA 4.0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png"></a>
-        CC BY-SA 4.0 2022 Tsukudani Network.</span>
+        CC BY-SA 4.0 2023 Tsukudani Network.</span>
         <span class="ipver" id="v4">You're accessing via IPv4 (AS59105).</span>
         <span class="ipver" id="v6">You're accessing via IPv6⚡ (AS150325).</span>
       </div>
