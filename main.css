@@ -77,6 +77,7 @@ html, body {
 	font-size: 1.5em;
 	background-color: #fdfdfd;
 }
+
 .about, .peering, .contact, .thanks, .credit {
 	width: 80%;
 	margin: 0 auto;

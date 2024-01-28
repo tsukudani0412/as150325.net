@@ -98,7 +98,7 @@
             </thead>
             <tbody>
               <tr>
-                <td>INIXP Asia</td><td>1Gbps</td>
+                <td>INIXP Asia</td><td>100Gbps</td>
               </tr>
               <tr>
                 <td>FogIXP</td><td>1Gbps</td>
