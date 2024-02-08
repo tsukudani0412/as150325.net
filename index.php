@@ -38,28 +38,10 @@
           </thead>
           <tbody>
             <tr>
+              <td>44.31.252.0/24</td><td><span class="green">ANNOUNCED</span></td>
+            </tr>
+            <tr>
               <td>2406:7ec0:1000::/46</td><td><span class="green">ANNOUNCED</span></td>
-            </tr>
-            <tr>
-              <td>2406:7ec0:1000::/48</td><td><span class="green">ANNOUNCED</span></td>
-            </tr>
-            <tr>
-              <td>2406:7ec0:1001::/48</td><td><span class="green">ANNOUNCED</span></td>
-            </tr>
-            <tr>
-              <td>2406:7ec0:1002::/48</td><td><span class="green">ANNOUNCED</span></td>
-            </tr>
-            <tr>
-              <td>2406:7ec0:1003::/48</td><td><span class="green">ANNOUNCED</span></td>
-            </tr>
-            <tr>
-              <td>2a12:f8c1:10::/44</td><td><span class="red">OBSOLETE</span></td>
-            </tr>
-            <tr>
-              <td>2a06:a005:16c0::/44</td><td><span class="red">OBSOLETE</span></td>
-            </tr>
-            <tr>
-              <td>2a06:a005:3::/48</td><td><span class="red">OBSOLETE</span></td>
             </tr>
           </tbody>
         </table>
