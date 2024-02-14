@@ -62,9 +62,6 @@
                 <td>Tokyo, Japan</td><td>Equinix TY8</td>
               </tr>
               <tr>
-                <td>Tokyo, Japan</td><td>Vultr</td>
-              </tr>
-              <tr>
                 <td>Zürich, Switzerland</td><td>iFog</td>
               </tr>
             </tbody>
@@ -104,9 +101,7 @@
         <ul>
           <li>ASN: 150325</li>
           <li>AS-SET: AS-TSUKUDANI</li>
-          <li>Endpoint(Vultr v4): 45.32.18.92</li>
-          <li>Endpoint(Vultr v6): 2001:19f0:7001:9ad:5400:04ff:fe26:43f2</li>
-          <li>Endpoint(NTT): Plase contact me :)</li>
+          <li>Endpoint: Please contact me :)</li>
         </ul>
         <p>If you are interested in peering, please send an email to <span id="class">admin [at] tsukudani.work</span> with the following information:</p>
         <ul>
