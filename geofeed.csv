@@ -1,0 +1,8 @@
+# prefix,country_code,region_code,city,postal
+44.31.252.0/24,JP,JP-13,Otemachi,
+
+2406:7ec0:1000::/46,JP,JP-13,Otemachi,
+2406:7ec0:1000::/48,JP,JP-13,Otemachi,
+2406:7ec0:1001::/48,JP,JP-13,Otemachi,
+2406:7ec0:1002::/48,JP,JP-13,Otemachi,
+2406:7ec0:1003::/48,JP,JP-13,Otemachi,
