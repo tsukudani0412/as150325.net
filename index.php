@@ -132,7 +132,7 @@
       </div>
 
       <div class="credit">
-        <span><a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener noreferrer"><img alt="CC BY-SA 4.0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png"></a>
+        <span><a href="http://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="noopener noreferrer"><img alt="CC BY-SA 4.0" src="https://www.licensebuttons.net/l/by-sa/4.0/88x31.png"></a>
         2024 Tsukudani Network.</span>
         <span class="ipver" id="v4">via IPv4</span>
         <span class="ipver" id="v6">via IPv6⚡</span>
