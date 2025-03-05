@@ -27,7 +27,7 @@
     <div class="content">
       <div class="about" id="about">
         <h2>About</h2>
-        <p>AS150325 - non-profit, research network maintained by <a href="https://tsukudani.work" target="_blank" rel="noopener noreferrer">Tsukudani</a>.</p>
+        <p>AS150325 - non-profit, research network maintained by <a href="https://tkdn.jp" target="_blank" rel="noopener noreferrer">Tsukudani</a>.</p>
 
         <h3>My Prefixes</h3>
         <table>
